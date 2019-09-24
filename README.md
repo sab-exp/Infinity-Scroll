@@ -1,6 +1,6 @@
 # infinity-scroll-with-nuxtjs-and-vuetify
 
-> My grand Nuxt.js project
+> See my Medium Article to see the detailed description.
 
 ## Build Setup
 
