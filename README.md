@@ -1,6 +1,7 @@
 # infinity-scroll-with-nuxtjs-and-vuetify
 
 > See my Medium Article to see the detailed description.
+https://medium.com/@sabbir.study/infinite-scroll-in-nuxt-js-f34ee86906cb
 
 ## Build Setup
 
